@@ -14,7 +14,7 @@ Watch the 3-minute walkthrough of the add-on in action:
 
 ---
 
-## 🖼 Figma Prototype  
+## 🖼 Prototype  
 Explore the full interactive design of the Smart File Organizer Pro:  
 🔗 [View Prototype](https://www.figma.com/proto/EuTIr7lXngLJRq63EMDqt6/Projects?node-id=201-4078&t=L8TUmzb0OoojuBAK-1)
 
