@@ -1,3 +1,4 @@
+![Page 1](https://github.com/user-attachments/assets/d803f136-04d1-4937-8e0a-a53c4388c78e)
 # Smart-File-Organizer
 A team-based file and collaboration add-on built for Adobe Express. 
 # 🎨 Smart File Organizer Pro
@@ -29,7 +30,7 @@ Quick overview of the problem, solution, market fit, and strategy:
 
 ## 💡 What is Smart File Organizer Pro?
 
-**Smart File Organizer Pro** transforms Adobe Express into a structured, role-based workspace for creative teams.
+**Smart File Organizer Pro** is a collaborative file and project management Add-on built for Adobe Express. Designed to address Express’s current solo-user limitations, it allows users to create structured project folders, invite teammates or clients, assign specific roles, and manage permissions — all within the Express workspace. It’s not just a feature — it’s a lightweight, mini web app that launches directly in the Express Add-ons panel and brings structure, clarity, and team coordination into a traditionally individual design space..
 
 ### Core Features:
 - ✅ Create and manage projects inside Adobe Express  
