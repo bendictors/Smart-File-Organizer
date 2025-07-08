@@ -22,6 +22,7 @@ Explore the full interactive design of the Smart File Organizer Pro:
 ## 📊 Pitch Deck  
 Quick overview of the problem, solution, market fit, and strategy:  
 🔗 [View Pitch Deck](https://www.figma.com/deck/FLM2FYrPYvu0LTGXnsMVba/BorderPay--Copy-?node-id=1-93&t=FBSAQL8AuepJr2Uy-1)
+
 🔗 [User Research Summary](https://docs.google.com/document/d/1B5aujI5N_6zM6GcSBDfMQgcQKT6PTzLe733EkiHbR4k/edit?usp=sharing)
 
 ---
