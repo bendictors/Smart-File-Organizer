@@ -41,6 +41,16 @@ Quick overview of the problem, solution, market fit, and strategy:
 
 ---
 
+### What It Solves
+Adobe Express users often face chaos when managing multiple files or collaborating with others. There’s no true folder hierarchy, no way to assign team roles, and feedback typically happens outside the tool — via emails, Google Docs, or screenshots. This Add-on solves those real, recurring pain points. Teams can now group files under shared folders, assign SmartTags for fast filtering, and control who sees what using role-based permissions. It replaces scattered workflows with one centralized system, improving productivity and accountability without ever leaving Adobe Express.
+
+---
+### How It Works
+Once launched from the Express Add-ons menu, users arrive at a dashboard that presents all of their folders, recent files, and project areas at a glance. They can quickly start by importing existing assets or creating a new folder for a campaign or client. Using SmartTags, they can label files — such as “Video Content,” “Client A,” or “Q4 Marketing” — for easy navigation. From there, users can head into the People & Roles section, where they invite collaborators by email and assign them a role: Manager, Designer, or Client. Each role unlocks a different level of access — managers have full control, designers can create and comment, while clients can only view and leave feedback.
+---
+### Who It’s For
+Smart File Organizer Pro is ideal for design agencies, freelance designers, content creators, marketing teams, and educators — anyone working with assets across multiple clients, campaigns, or collaborators. It’s especially valuable for professionals who already use Express to create content but need a better way to organize and deliver it collaboratively. This is not just for big teams — even solo users with several clients will benefit from clear file grouping, feedback control, and smarter organization.
+---
 ## 🔍 Why We Built It
 
 We analyzed over **100+ real user complaints** across Reddit, Adobe forums, and design communities.  
